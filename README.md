@@ -1,4 +1,4 @@
-# finance
+# Finance
 This repository stores what I learned and sample codings for finance
 
 # Overview
