@@ -9,4 +9,4 @@ fin-004 - Performance metrics calculation (CV, Sharpe Ratio, Treynor Ratio, Sort
 fin-005 - Financial event analysis method<br>
 fin-006 - Efficiency frontier visualization<br>
 fin-007 - Theories of forex trading (1) - Monetary Base Approach<br>
-fin-008 - Theories of forex_trading_(2) - GDP per capita Approach
+fin-008 - Theories of forex trading (2) - GDP per capita Approach
